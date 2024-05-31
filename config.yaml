@@ -1,0 +1,13 @@
+telegram:
+  api_id: 'Coded_By_Ghalwash'
+  api_hash: 'Coded_By_Ghalwash'
+  source_group: 'Coded_By_Ghalwash'  # حط لينك جروب اللي هتسحب منه يا معلم
+  destination_group: 'Coded_By_Ghalwash'  # حط لينك الجروب اللي هيتنقل ليه يا معلم
+  time_between_each_member: 0.5  # الوقت ما بين اضافه كل مستخدم
+  members_before_wait: 30  # بعد 30 مستخدم يتم الايقاف مؤقتا
+  wait_time: 6  # الزمن للانتظار بعد اضافه 30 مستخدم
+
+# If you have any problem, don't message me. I am lazy. My user on X, IG, FB, GitHub: @Mrfa0gh
+# This project was coded by Ghalwash
+# Libraries used are in requirements.txt
+# To install them, use: pip install -r requirements.txt
